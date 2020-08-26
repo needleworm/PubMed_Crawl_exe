@@ -2,7 +2,7 @@
 PubMed Crawler (exe format)
 
 # How To Use
-### 1. Please Cloe repository or download whole files.
+### 1. Please Clone repository or download whole files.
 
 ### 2. run "PubMed Crawler.exe"
 
